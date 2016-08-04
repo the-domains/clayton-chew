@@ -16,5 +16,8 @@ navigation:
   - name: App Design
     id: 6f52a874-1d2d-4b44-981a-e813928432a1
     type: content
+  - name: Photography
+    id: c63263ca-73e7-43a5-bbd9-0a9606c92459
+    type: content
 title: Clayton Chew Design
 description: UI/UX Designer
