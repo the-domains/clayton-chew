@@ -1,4 +1,3 @@
-layout_spectrum: 0.03955966071225703
 typography_spectrum: 0.10515829361975193
 color:
   brandStrength: 0.8350142056588084
@@ -11,5 +10,7 @@ color:
     - '#808080'
     - '#BFBFBF'
     - '#FFFFFF'
+layout_spectrum: 0.03955966071225703
 name: Clayton Chew
 title: Clayton Chew Design
+description: UI/UX Designer
