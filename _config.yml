@@ -1,4 +1,4 @@
-typography_spectrum: 0.2676415534224361
+typography_spectrum: 0.10515829361975193
 color:
   brandStrength: 0.8350142056588084
   lightness: 0.1999738235026598
@@ -10,7 +10,11 @@ color:
     - '#808080'
     - '#BFBFBF'
     - '#FFFFFF'
-layout_spectrum: 0.4140330662485212
+layout_spectrum: 0.03955966071225703
 name: Clayton Chew
+navigation:
+  - name: App Design
+    id: 6f52a874-1d2d-4b44-981a-e813928432a1
+    type: content
 title: Clayton Chew Design
 description: UI/UX Designer
